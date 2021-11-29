@@ -13,7 +13,7 @@ const People = () => {
   if (people) {
     return (
       <div className="container">
-        <h1>Films</h1>
+        <h1>People</h1>
         {people.map((person) => {
           return <p key={person.id}>{person.name}</p>;
         })}

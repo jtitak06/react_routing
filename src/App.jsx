@@ -1,5 +1,6 @@
 import Home from "./components/views/Home";
 import Films from "./components/views/Films";
+import People from "./components/views/People";
 import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
 import "./App.css";
 
