@@ -1,0 +1,1 @@
+export const STUDIO_GHIBLI_URL = "https://ghibliapi.herokuapp.com/";
